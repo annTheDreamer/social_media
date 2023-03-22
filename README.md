@@ -19,4 +19,4 @@ Running the project locally:
 - Via Visual Studio Code
 
     1. Open the folder with VS Code
-    2. Open the index.html file with a live server extension "Five Server"
+    2. Open the index.html file with the live server extension "Five Server"
